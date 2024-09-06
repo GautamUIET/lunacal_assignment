@@ -1,4 +1,4 @@
-import React from 'react';
+
 import TabWidget from './TabWidget';
 import GalleryWidget from './GalleryWidget';
 

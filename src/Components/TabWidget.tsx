@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 
 const TabWidget = () => {
   const [activeTab, setActiveTab] = useState('about');
